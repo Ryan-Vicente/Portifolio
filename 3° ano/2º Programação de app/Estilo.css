@@ -1,0 +1,28 @@
+.centro {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: brown;
+}
+
+.imagem {
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+.imagem img{
+    text-align: center;
+    border-radius: 100%;
+
+
+}
